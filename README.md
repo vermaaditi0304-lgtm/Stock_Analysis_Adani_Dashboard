@@ -14,11 +14,6 @@ This project presents an analytical overview of **Adani Enterprises Ltd.** stock
 - Built an interactive and dynamic Power BI dashboard.
 - Integrated KPIs and visual trends to interpret stock behavior over time.
 
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Preview](<Dashboard png.png>)
 
 ---
 
